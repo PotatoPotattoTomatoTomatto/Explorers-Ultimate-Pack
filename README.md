@@ -1,7 +1,7 @@
 # Explorer's Ultimate Pack
 Welcome to the Explorer's Ultimate Pack. This mod adds useful parts to the game such as side-mounted engines, batteries, fuel pipes, and more.
 # How To Install
-Download the ZIP file, then extract it and move it to Spaceflight Simulator\Spaceflight Simulator Game\Mods\Custom Assets\Parts
+Download the ZIP file for the latest version, then extract it and move it to Spaceflight Simulator\Spaceflight Simulator Game\Mods\Custom Assets\Parts
 # Changelog
 
 v0.1
