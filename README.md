@@ -70,8 +70,6 @@ v0.6.1
 
 -Changed mod description
 
--Added support to SFS 1.6
-
 -Added Android and IOS compatibility
 
 # Known Bugs
