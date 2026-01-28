@@ -66,6 +66,14 @@ v0.6
 
 -Added Icon
 
+v0.6.1
+
+-Changed mod description
+
+-Added support to SFS 1.6
+
+-Added Android and IOS compatibility
+
 # Known Bugs
 
 -The pipe thingy connecting the nozzle of the Courage engine to the attachment point doesn’t gimbal
