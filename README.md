@@ -72,6 +72,16 @@ v0.6.1
 
 -Added Android and IOS compatibility
 
+v0.7
+
+-Added Cargo Bay
+
+-Added Service Bay
+
+-Added Agencies
+
+-Fixed incompatibility issues
+
 # Known Bugs
 
 -The pipe thingy connecting the nozzle of the Courage engine to the attachment point doesn’t gimbal
@@ -85,3 +95,7 @@ v0.6.1
 -If any batteries on the ship have less than 100% electricity, then solar panels don't play an animation while closing
 
 -The RTG's power output has weird connections to throttle
+
+-Cargo Bay starts off opened in the build menu and plays a closing animation once placed, rather than being closed the whole time
+
+-Part's don't adapt to service bay
