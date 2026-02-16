@@ -82,6 +82,28 @@ v0.7
 
 -Fixed incompatibility issues
 
+v0.8
+
+-Added Rotor
+
+-Added Heat Tiles
+
+-Added Drogue Chute side variant
+
+-Added retexturability to Service Bay
+
+-Added retexturability to Cargo Bay
+
+-Added height slider to Cargo Bay
+
+-Added sound to Service Bay
+
+-Added option to deploy grid fin in build menu
+
+-Added Aero Exploration category
+
+-Fixed flag textures showing up on skin menu
+
 # Known Bugs
 
 -The pipe thingy connecting the nozzle of the Courage engine to the attachment point doesn’t gimbal
