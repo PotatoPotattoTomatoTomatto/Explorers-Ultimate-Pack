@@ -104,6 +104,12 @@ v0.8
 
 -Fixed flag textures showing up on skin menu
 
+v0.8.1
+
+-Fixed Eagle Engine Gimbal
+
+-Added Balloon
+
 # Known Bugs
 
 -The pipe thingy connecting the nozzle of the Courage engine to the attachment point doesn’t gimbal
