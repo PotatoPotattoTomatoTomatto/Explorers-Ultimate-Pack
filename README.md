@@ -126,4 +126,6 @@ v0.8.1
 
 -Cargo Bay starts off opened in the build menu and plays a closing animation once placed, rather than being closed the whole time
 
--Part's don't adapt to service bay
+-Parts don't adapt to service bay
+
+-Balloon skin displays upside down in build menu
