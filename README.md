@@ -110,21 +110,37 @@ v0.8.1
 
 -Added Balloon
 
+v0.9
+
+-Added Rotation Option to Fuel Pipe
+
+-Added Helium
+
+-Added Helium tank
+
+-Fixed Balloon for Mobile Users
+
+-Added Light
+
+-Fixed Resource Masses
+
+-Added Gyroscope
+
+-Added Vacuum Plumes to all Engines
+
+-Removed Courage Engine
+
+-Replaced Rotor’s Linear Thrust Formula With a Curve
+
+-Increased Power Usage of Epoch Engine
+
 # Known Bugs
 
--The pipe thingy connecting the nozzle of the Courage engine to the attachment point doesn’t gimbal
-
 -The Grid Fin can't be deployed in the build screen
-
--Solar Panels and RTG's automatically shut down when all batteries have been filled
-
--In the build menu, the mass of the Xenon in the tank is less than it displays
 
 -If any batteries on the ship have less than 100% electricity, then solar panels don't play an animation while closing
 
 -The RTG's power output has weird connections to throttle
-
--Cargo Bay starts off opened in the build menu and plays a closing animation once placed, rather than being closed the whole time
 
 -Parts don't adapt to service bay
 
