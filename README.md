@@ -134,6 +134,14 @@ v0.9
 
 -Increased Power Usage of Epoch Engine
 
+v0.9.1
+
+-Added inflate/deflate animation to balloon
+
+v0.9.2
+
+-Fixed some bugs
+
 # Known Bugs
 
 -The Grid Fin can't be deployed in the build screen
