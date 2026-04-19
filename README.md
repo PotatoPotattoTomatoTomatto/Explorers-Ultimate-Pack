@@ -142,14 +142,58 @@ v0.9.2
 
 -Fixed some bugs
 
+v1.0 “Sky’s the limit”
+
+-Added Swallow Jet Engine
+
+-Added Dove Jet Engine
+
+-Added Air Intake
+
+-Added Radial Air Intake
+
+-Added Large Rotor
+
+-Added Wing
+
+-Added Control Surface
+
+-Added Landing Gear
+
+-Added Color Slider to light
+
+-Added Jet Fuel Tank
+
+-Added Rogallo Wings
+
+-Revamped all Parts
+
+-Readded Courage Engine
+
+-Added Dart Cockpit
+
+-Added Bullet Cockpit
+
+-Added Giant Cockpit
+
+-Added Lifting Heat Shield
+
+-Fixed Fuel Pipe Description Typo
+
+-Added Animation for Rotor
+
+-Removed Herobrine
+
 # Known Bugs
 
--The Grid Fin can't be deployed in the build screen
+-Solar Panels and RTG's automatically shut down when all batteries have been filled
 
--If any batteries on the ship have less than 100% electricity, then solar panels don't play an animation while closing
-
--The RTG's power output has weird connections to throttle
+-The RTG has weird connections to throttle
 
 -Parts don't adapt to service bay
 
--Balloon skin displays upside down in build menu
+-Users sometimes can’t read the thread title
+
+-If you load a craft near a jet engine you'll hear a burst of sound
+
+-Air intakes and jet engines can be used in atmospheres without oxygen
