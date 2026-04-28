@@ -184,6 +184,18 @@ v1.0 “Sky’s the limit”
 
 -Removed Herobrine
 
+v1.0.1
+
+-Fixed lights consuming extreme amounts of fuel
+
+v1.0.2
+
+-Fixed incompatibility issues with RSA parts
+
+v1.0.3
+
+-Added SmartThrust Self-Landing Engines
+
 # Known Bugs
 
 -Solar Panels and RTG's automatically shut down when all batteries have been filled
